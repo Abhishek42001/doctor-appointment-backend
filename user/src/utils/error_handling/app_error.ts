@@ -25,15 +25,15 @@ export class BaseError extends Error{
 
 //500 Internal Server Error
 export class ApiError extends BaseError{
-    constructor({description,statusCode=STATUS_CODES.INTERNAL_ERROR,errorStack}:{description:string,statusCode:number,errorStack:string}){
+    constructor({description,statusCode=STATUS_CODES.INTERNAL_ERROR,errorStack}:{description:string,statusCode?:number,errorStack?:string}){
         super(statusCode,description,errorStack);
     }
 }
 
 //400 Validation Error
 export class ValidationError extends BaseError{
-    constructor(){
-        super(STATUS_CODES.BAD_REQUEST,'BAD REQUEST');
+    constructor(message:string='BAD REQUEST'){
+        super(STATUS_CODES.BAD_REQUEST,message);
     }
 }
 

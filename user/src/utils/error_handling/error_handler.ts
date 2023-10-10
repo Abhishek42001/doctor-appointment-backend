@@ -11,13 +11,12 @@ const LogErrors=createLogger({
 })
 
 class ErrorLogger{
-    constructor(){}
     async logError(err:Error){
         console.log('==================== Start Error Logger ===============');
         LogErrors.log({
             private: true,
             level: 'error',
-            message: `${new Date()}-${JSON.stringify(err.stack)}`
+            message: `${new Date()}-${JSON.stringify(err.message)}`
         });
         console.log('==================== End Error Logger ==============='); 
     }
@@ -29,7 +28,6 @@ const ErrorHandler=async(err:Error,req:express.Request,res:express.Response,next
     if(!isClientError){
        await errorLogger.logError(err)
     }
-    console.log(err.stack)
     let statusCode=500
     let errorString="Internal Server Error"
     if(err instanceof BaseError){

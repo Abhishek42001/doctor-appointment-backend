@@ -1,5 +1,7 @@
-import { Column, Model, Table,DataType, PrimaryKey, IsUUID, Default} from "sequelize-typescript";
+import { Column, Model, Table,DataType, PrimaryKey, Default} from "sequelize-typescript";
 
+
+export const roleEnums=['doctor','patient'];
 @Table({
   tableName:"User"
 })
@@ -34,7 +36,7 @@ class UserModel extends Model {
   salt!:string
 
   @Column({
-    type:DataType.ENUM('doctor','patient'),
+    type:DataType.ENUM(...roleEnums),
     allowNull:false,
   })
   role!:string

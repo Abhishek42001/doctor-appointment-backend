@@ -1,5 +1,6 @@
 import { Sequelize } from "sequelize-typescript";
-import UserModel from "./models/user";
+import UserModel,{roleEnums} from "./models/user_model";
+import { ValidationError } from "../utils/error_handling/app_error";
 
 export default async () => {
   const sequelize: Sequelize = new Sequelize({
@@ -12,5 +13,12 @@ export default async () => {
     models: [UserModel]
   });
   await sequelize.sync();
+
+  UserModel.beforeCreate((user,create)=>{
+    if(!roleEnums.includes(user.role)){
+      throw new ValidationError(`${user.role} not accpeted as role`);
+    }
+  })
 }
+
 

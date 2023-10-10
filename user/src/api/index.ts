@@ -1,2 +1,2 @@
-import UserApis from "./user";
+import UserApis from "./controllers/user";
 export const User=UserApis;

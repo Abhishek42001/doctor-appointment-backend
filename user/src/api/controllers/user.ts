@@ -1,10 +1,10 @@
 import express from 'express';
-import UserService from '../services/user_service';
-import UserAuth from './middlewares/auth';
-import CatchAsyncError from '../utils/catch_async_error';
-import { FormatData } from '../utils';
-import { NotFoundError, ValidationError } from '../utils/error_handling/app_error';
-import { ExpressRequest } from '../utils/type_interfaces';
+import UserService from '../../services/user_service';
+import UserAuth from '../middlewares/auth';
+import CatchAsyncError from '../../utils/catch_async_error';
+import { FormatData } from '../../utils';
+import { ValidationError } from '../../utils/error_handling/app_error';
+import { ExpressRequest } from '../../utils/type_interfaces';
 
 const UserApis=async(app:express.Express)=>{
     const service=new UserService();
@@ -25,7 +25,7 @@ const UserApis=async(app:express.Express)=>{
     }))
 
     //register user
-    app.post("/signup",CatchAsyncError(async(req:express.Request,res:express.Response,next:express.NextFunction)=>{
+    app.post("/signup",CatchAsyncError(async(req:express.Request,res:express.Response)=>{
         const body=req.body;
         if(!Object.keys(body).length)throw new ValidationError();
         const data=await service.SignUp(body);
