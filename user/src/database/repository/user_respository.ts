@@ -11,7 +11,6 @@ class UserRepository{
             role:body.role,
             salt:body.salt
         });
-        user.password=undefined;
         return user;
     }
     async FindUserByEmail(email:string){

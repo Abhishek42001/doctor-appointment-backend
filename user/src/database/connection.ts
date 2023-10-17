@@ -1,6 +1,6 @@
 import { Sequelize } from "sequelize-typescript";
 import UserModel,{roleEnums} from "./models/user_model";
-import { ValidationError } from "../utils/error_handling/app_error";
+import { ValidationError } from "../../../utils/error_handling/app_error";
 
 export default async () => {
   const sequelize: Sequelize = new Sequelize({

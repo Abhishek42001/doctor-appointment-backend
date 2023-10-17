@@ -18,9 +18,3 @@ export interface JWTPayload{
     _id:string
 }
 
-export interface ExpressRequest extends express.Request{
-    user:{
-        email:string,
-        _id:string
-    }
-}

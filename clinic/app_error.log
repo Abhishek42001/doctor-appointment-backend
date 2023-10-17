@@ -1,0 +1,56 @@
+{"level":"error","message":"Tue Oct 17 2023 00:41:48 GMT+0530 (India Standard Time)-\"notNull Violation: ClinicModel.name cannot be null,\\nnotNull Violation: ClinicModel.latitude cannot be null,\\nnotNull Violation: ClinicModel.longitude cannot be null\"","private":true}
+{"level":"error","message":"Tue Oct 17 2023 22:28:31 GMT+0530 (India Standard Time)-\"notNull Violation: ClinicModel.longitude cannot be null\"","private":true}
+{"level":"error","message":"Tue Oct 17 2023 22:36:40 GMT+0530 (India Standard Time)-\"notNull Violation: ClinicModel.longitude cannot be null\"","private":true}
+{"level":"error","message":"Tue Oct 17 2023 22:37:18 GMT+0530 (India Standard Time)-\"notNull Violation: ClinicModel.longitude cannot be null\"","private":true}
+{"level":"error","message":"Tue Oct 17 2023 22:56:04 GMT+0530 (India Standard Time)-\"column \\\"name\\\" of relation \\\"Appointment\\\" does not exist\"","private":true}
+{"level":"error","message":"Tue Oct 17 2023 22:56:23 GMT+0530 (India Standard Time)-\"column \\\"name\\\" of relation \\\"Appointment\\\" does not exist\"","private":true}
+{"level":"error","message":"Wed Oct 18 2023 00:06:39 GMT+0530 (India Standard Time)-\"column \\\"name\\\" of relation \\\"Appointment\\\" does not exist\"","private":true}
+{"level":"error","message":"Wed Oct 18 2023 00:06:59 GMT+0530 (India Standard Time)-\"column \\\"name\\\" of relation \\\"Appointment\\\" does not exist\"","private":true}
+{"level":"error","message":"Wed Oct 18 2023 00:08:25 GMT+0530 (India Standard Time)-\"column \\\"name\\\" of relation \\\"Appointment\\\" does not exist\"","private":true}
+{"level":"error","message":"Wed Oct 18 2023 00:09:17 GMT+0530 (India Standard Time)-\"column \\\"name\\\" of relation \\\"Appointment\\\" does not exist\"","private":true}
+{"level":"error","message":"Wed Oct 18 2023 00:09:29 GMT+0530 (India Standard Time)-\"column \\\"name\\\" of relation \\\"Appointment\\\" does not exist\"","private":true}
+{"level":"error","message":"Wed Oct 18 2023 00:09:36 GMT+0530 (India Standard Time)-\"column \\\"name\\\" of relation \\\"Appointment\\\" does not exist\"","private":true}
+{"level":"error","message":"Wed Oct 18 2023 00:09:40 GMT+0530 (India Standard Time)-\"notNull Violation: ClinicModel.name cannot be null,\\nnotNull Violation: ClinicModel.latitude cannot be null,\\nnotNull Violation: ClinicModel.longitude cannot be null\"","private":true}
+{"level":"error","message":"Wed Oct 18 2023 00:10:29 GMT+0530 (India Standard Time)-\"column \\\"name\\\" of relation \\\"Appointment\\\" does not exist\"","private":true}
+{"level":"error","message":"Wed Oct 18 2023 00:15:17 GMT+0530 (India Standard Time)-\"Clinic already exist with this name,please try with other name\"","private":true}
+{"level":"error","message":"Wed Oct 18 2023 00:15:19 GMT+0530 (India Standard Time)-\"Clinic already exist with this name,please try with other name\"","private":true}
+{"level":"error","message":"Wed Oct 18 2023 00:15:20 GMT+0530 (India Standard Time)-\"Clinic already exist with this name,please try with other name\"","private":true}
+{"level":"error","message":"Wed Oct 18 2023 00:15:21 GMT+0530 (India Standard Time)-\"Clinic already exist with this name,please try with other name\"","private":true}
+{"level":"error","message":"Wed Oct 18 2023 00:15:23 GMT+0530 (India Standard Time)-\"Clinic already exist with this name,please try with other name\"","private":true}
+{"level":"error","message":"Wed Oct 18 2023 00:15:28 GMT+0530 (India Standard Time)-\"Clinic already exist with this name,please try with other name\"","private":true}
+{"level":"error","message":"Wed Oct 18 2023 00:15:48 GMT+0530 (India Standard Time)-\"Clinic already exist with Surya Clinico name,please try with other name\"","private":true}
+{"level":"error","message":"Wed Oct 18 2023 00:15:50 GMT+0530 (India Standard Time)-\"Clinic already exist with Surya Clinico name,please try with other name\"","private":true}
+{"level":"error","message":"Wed Oct 18 2023 00:15:51 GMT+0530 (India Standard Time)-\"Clinic already exist with Surya Clinico name,please try with other name\"","private":true}
+{"level":"error","message":"Wed Oct 18 2023 00:15:52 GMT+0530 (India Standard Time)-\"Clinic already exist with Surya Clinico name,please try with other name\"","private":true}
+{"level":"error","message":"Wed Oct 18 2023 00:15:52 GMT+0530 (India Standard Time)-\"Clinic already exist with Surya Clinico name,please try with other name\"","private":true}
+{"level":"error","message":"Wed Oct 18 2023 00:19:40 GMT+0530 (India Standard Time)-\"Clinic already exist with Surya Clinico name,please try with other name\"","private":true}
+{"level":"error","message":"Wed Oct 18 2023 00:20:04 GMT+0530 (India Standard Time)-\"Clinic already exist with Surya Clinico name,please try with other name\"","private":true}
+{"level":"error","message":"Wed Oct 18 2023 00:27:58 GMT+0530 (India Standard Time)-\"Clinic already exist with Surya Clinico name,please try with other name\"","private":true}
+{"level":"error","message":"Wed Oct 18 2023 00:28:00 GMT+0530 (India Standard Time)-\"Clinic already exist with Surya Clinico name,please try with other name\"","private":true}
+{"level":"error","message":"Wed Oct 18 2023 00:28:07 GMT+0530 (India Standard Time)-\"Clinic already exist with Surya Clinico name,please try with other name\"","private":true}
+{"level":"error","message":"Wed Oct 18 2023 00:28:28 GMT+0530 (India Standard Time)-\"Clinic already exist with Surya Clinic7 name,please try with other name\"","private":true}
+{"level":"error","message":"Wed Oct 18 2023 00:28:30 GMT+0530 (India Standard Time)-\"Clinic already exist with Surya Clinic7 name,please try with other name\"","private":true}
+{"level":"error","message":"Wed Oct 18 2023 00:28:44 GMT+0530 (India Standard Time)-\"Clinic already exist with Surya Clinic7 name,please try with other name\"","private":true}
+{"level":"error","message":"Wed Oct 18 2023 00:28:49 GMT+0530 (India Standard Time)-\"Clinic already exist with Surya Clinic7 name,please try with other name\"","private":true}
+{"level":"error","message":"Wed Oct 18 2023 00:29:01 GMT+0530 (India Standard Time)-\"Clinic already exist with Surya Clinic7 name,please try with other name\"","private":true}
+{"level":"error","message":"Wed Oct 18 2023 00:29:31 GMT+0530 (India Standard Time)-\"Clinic already exist with Surya Clinic7 name,please try with other name\"","private":true}
+{"level":"error","message":"Wed Oct 18 2023 00:30:07 GMT+0530 (India Standard Time)-\"Clinic already exist with Surya Clinic7 name,please try with other name\"","private":true}
+{"level":"error","message":"Wed Oct 18 2023 00:30:10 GMT+0530 (India Standard Time)-\"Clinic already exist with Surya Clinic7 name,please try with other name\"","private":true}
+{"level":"error","message":"Wed Oct 18 2023 00:30:15 GMT+0530 (India Standard Time)-\"Clinic already exist with Surya Clinic7 name,please try with other name\"","private":true}
+{"level":"error","message":"Wed Oct 18 2023 00:30:31 GMT+0530 (India Standard Time)-\"Clinic already exist with Surya Clinic7 name,please try with other name\"","private":true}
+{"level":"error","message":"Wed Oct 18 2023 00:30:34 GMT+0530 (India Standard Time)-\"Clinic already exist with Surya Clinic7 name,please try with other name\"","private":true}
+{"level":"error","message":"Wed Oct 18 2023 00:30:45 GMT+0530 (India Standard Time)-\"Clinic already exist with Surya Clinic7 name,please try with other name\"","private":true}
+{"level":"error","message":"Wed Oct 18 2023 00:30:47 GMT+0530 (India Standard Time)-\"Clinic already exist with Surya Clinic7 name,please try with other name\"","private":true}
+{"level":"error","message":"Wed Oct 18 2023 00:30:48 GMT+0530 (India Standard Time)-\"Clinic already exist with Surya Clinic7 name,please try with other name\"","private":true}
+{"level":"error","message":"Wed Oct 18 2023 00:30:54 GMT+0530 (India Standard Time)-\"Clinic already exist with Surya Clinic7 name,please try with other name\"","private":true}
+{"level":"error","message":"Wed Oct 18 2023 00:31:05 GMT+0530 (India Standard Time)-\"Clinic already exist with Surya Clinic74 name,please try with other name\"","private":true}
+{"level":"error","message":"Wed Oct 18 2023 00:31:44 GMT+0530 (India Standard Time)-\"Clinic already exist with Surya Clinic74 name,please try with other name\"","private":true}
+{"level":"error","message":"Wed Oct 18 2023 00:39:51 GMT+0530 (India Standard Time)-\"Data not found\"","private":true}
+{"level":"error","message":"Wed Oct 18 2023 00:46:00 GMT+0530 (India Standard Time)-\"Data not found\"","private":true}
+{"level":"error","message":"Wed Oct 18 2023 00:47:24 GMT+0530 (India Standard Time)-\"Data not found\"","private":true}
+{"level":"error","message":"Wed Oct 18 2023 00:48:43 GMT+0530 (India Standard Time)-\"Data not found\"","private":true}
+{"level":"error","message":"Wed Oct 18 2023 00:49:15 GMT+0530 (India Standard Time)-\"Data not found\"","private":true}
+{"level":"error","message":"Wed Oct 18 2023 00:49:16 GMT+0530 (India Standard Time)-\"Data not found\"","private":true}
+{"level":"error","message":"Wed Oct 18 2023 00:50:44 GMT+0530 (India Standard Time)-\"Data not found\"","private":true}
+{"level":"error","message":"Wed Oct 18 2023 00:50:59 GMT+0530 (India Standard Time)-\"Data not found\"","private":true}
+{"level":"error","message":"Wed Oct 18 2023 00:51:30 GMT+0530 (India Standard Time)-\"Data not found\"","private":true}

@@ -1,0 +1,9 @@
+{"level":"error","message":"Fri Oct 13 2023 00:14:55 GMT+0530 (India Standard Time)-\"Model not initialized: Member \\\"create\\\" cannot be called. \\\"AppointmentModel\\\" needs to be added to a Sequelize instance.\"","private":true}
+{"level":"error","message":"Fri Oct 13 2023 00:30:45 GMT+0530 (India Standard Time)-\"Model not initialized: Member \\\"create\\\" cannot be called. \\\"AppointmentModel\\\" needs to be added to a Sequelize instance.\"","private":true}
+{"level":"error","message":"Fri Oct 13 2023 00:37:44 GMT+0530 (India Standard Time)-\"notNull Violation: AppointmentModel.doctor_id cannot be null,\\nnotNull Violation: AppointmentModel.patient_id cannot be null,\\nnotNull Violation: AppointmentModel.appointment_datetime cannot be null\"","private":true}
+{"level":"error","message":"Fri Oct 13 2023 00:38:06 GMT+0530 (India Standard Time)-\"notNull Violation: AppointmentModel.doctor_id cannot be null,\\nnotNull Violation: AppointmentModel.patient_id cannot be null,\\nnotNull Violation: AppointmentModel.appointment_datetime cannot be null\"","private":true}
+{"level":"error","message":"Fri Oct 13 2023 00:38:52 GMT+0530 (India Standard Time)-\"notNull Violation: AppointmentModel.appointment_datetime cannot be null\"","private":true}
+{"level":"error","message":"Fri Oct 13 2023 00:39:07 GMT+0530 (India Standard Time)-\"notNull Violation: AppointmentModel.appointment_datetime cannot be null\"","private":true}
+{"level":"error","message":"Fri Oct 13 2023 00:39:22 GMT+0530 (India Standard Time)-\"invalid input syntax for type uuid: \\\"dsf\\\"\"","private":true}
+{"level":"error","message":"Fri Oct 13 2023 00:39:50 GMT+0530 (India Standard Time)-\"invalid input syntax for type uuid: \\\"dsf\\\"\"","private":true}
+{"level":"error","message":"Fri Oct 13 2023 00:43:12 GMT+0530 (India Standard Time)-\"invalid input syntax for type uuid: \\\"56505996-3a6c-4706-abea-c850db5ca1dp\\\"\"","private":true}

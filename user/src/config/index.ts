@@ -8,5 +8,4 @@ if(process.env.NODE_ENV!=='prod'){
 }
 
 export const PORT=process.env.PORT;
-export const USER_SERVICE="user_service";
-export const APP_SECRET='SECRET';
+export const APP_SECRET=process.env.APP_SECRET;
