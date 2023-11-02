@@ -9,7 +9,8 @@ import ClinicService from "../../services/clinic_service";
 const ClinicController=(app:express.Express)=>{
     const clinicService=new ClinicService();
     app.get(ClinicEndpoints.CLINIC,auth,CatchAsyncError(async(req:ExpressRequest,res:express.Response,next:express.NextFunction)=>{
-        const data=await clinicService.getAllClinics()
+        const {latitude,longitude}=req.query as any
+        const data=await clinicService.getAllClinicsNearMe(latitude,longitude)
         res.status(200).json(data);
     }))
 

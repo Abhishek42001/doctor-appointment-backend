@@ -132,3 +132,5 @@
 {"level":"error","message":"Tue Oct 10 2023 22:40:26 GMT+0530 (India Standard Time)-\"doctsor not accpeted as role\"","private":true}
 {"level":"error","message":"Thu Oct 12 2023 23:50:52 GMT+0530 (India Standard Time)-\"User already exist\"","private":true}
 {"level":"error","message":"Thu Oct 12 2023 23:51:54 GMT+0530 (India Standard Time)-\"WHERE parameter \\\"email\\\" has invalid \\\"undefined\\\" value\"","private":true}
+{"level":"error","message":"Wed Oct 25 2023 23:53:07 GMT+0530 (India Standard Time)-\"notNull Violation: UserModel.role cannot be null\"","private":true}
+{"level":"error","message":"Wed Oct 25 2023 23:53:36 GMT+0530 (India Standard Time)-\"Unexpected token } in JSON at position 57\"","private":true}

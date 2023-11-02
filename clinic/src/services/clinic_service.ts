@@ -9,8 +9,8 @@ class ClinicService{
         const data=await this.repository.CreateClinic(body)
         return FormatData(data);
     }
-    async getAllClinics(){
-        const data=await this.repository.GetClinics();
+    async getAllClinicsNearMe(latitude:string|undefined|null,longitude:string|undefined|null){
+        const data=await this.repository.GetClinicsNearMe(latitude,longitude);
         return FormatData(data);
     }
     async updateClinic(pk:string,data:ClinicInterface){

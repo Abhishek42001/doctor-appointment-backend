@@ -12,7 +12,7 @@ export default async()=>{
         logging: false,
         models: [ClinicModel]
     })
-    await sequelize.sync();
+    await sequelize.sync({alter:true});
     ClinicModel.beforeCreate(async (user,_)=>{
         const data=await ClinicModel.findOne({where:{name:user.name}})
         if(data){

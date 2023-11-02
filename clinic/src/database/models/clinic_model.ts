@@ -19,16 +19,10 @@ class ClinicModel extends Model{
     name!:string
 
     @Column({
-        type:DataType.FLOAT,
+        type:DataType.GEOMETRY("POINT"),
         allowNull:false,
     })
-    latitude!:number
-
-    @Column({
-        type:DataType.FLOAT,
-        allowNull:false,
-    })
-    longitude!:number
+    location!:object
 
     @Column({
         type:DataType.STRING,
