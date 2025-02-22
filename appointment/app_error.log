@@ -7,3 +7,17 @@
 {"level":"error","message":"Fri Oct 13 2023 00:39:22 GMT+0530 (India Standard Time)-\"invalid input syntax for type uuid: \\\"dsf\\\"\"","private":true}
 {"level":"error","message":"Fri Oct 13 2023 00:39:50 GMT+0530 (India Standard Time)-\"invalid input syntax for type uuid: \\\"dsf\\\"\"","private":true}
 {"level":"error","message":"Fri Oct 13 2023 00:43:12 GMT+0530 (India Standard Time)-\"invalid input syntax for type uuid: \\\"56505996-3a6c-4706-abea-c850db5ca1dp\\\"\"","private":true}
+{"level":"error","message":"Sun Dec 03 2023 15:00:32 GMT+0530 (India Standard Time)-\"column \\\"doctor_id\\\" does not exist\"","private":true}
+{"level":"error","message":"Sun Dec 03 2023 15:05:23 GMT+0530 (India Standard Time)-\"column \\\"doctor_id\\\" does not exist\"","private":true}
+{"level":"error","message":"Sun Dec 03 2023 15:06:07 GMT+0530 (India Standard Time)-\"column \\\"doctor_id\\\" does not exist\"","private":true}
+{"level":"error","message":"Sun Dec 03 2023 15:13:58 GMT+0530 (India Standard Time)-\"column \\\"doctor_id\\\" does not exist\"","private":true}
+{"level":"error","message":"Sun Dec 03 2023 15:16:35 GMT+0530 (India Standard Time)-\"column \\\"doctor_id\\\" does not exist\"","private":true}
+{"level":"error","message":"Sun Dec 03 2023 15:16:57 GMT+0530 (India Standard Time)-\"column \\\"doctor_id\\\" does not exist\"","private":true}
+{"level":"error","message":"Sun Dec 03 2023 15:17:09 GMT+0530 (India Standard Time)-\"column \\\"doctor_id\\\" does not exist\"","private":true}
+{"level":"error","message":"Sun Dec 03 2023 15:17:44 GMT+0530 (India Standard Time)-\"column \\\"doctor_id\\\" does not exist\"","private":true}
+{"level":"error","message":"Sun Dec 03 2023 15:17:53 GMT+0530 (India Standard Time)-\"column \\\"doctor_id\\\" does not exist\"","private":true}
+{"level":"error","message":"Sun Dec 03 2023 15:21:18 GMT+0530 (India Standard Time)-\"column \\\"doctor_id\\\" does not exist\"","private":true}
+{"level":"error","message":"Sun Dec 03 2023 15:22:22 GMT+0530 (India Standard Time)-\"column \\\"doctor_id\\\" of relation \\\"Appointment\\\" does not exist\"","private":true}
+{"level":"error","message":"Sun Dec 03 2023 15:25:36 GMT+0530 (India Standard Time)-\"column \\\"doctor_id\\\" of relation \\\"Appointment\\\" does not exist\"","private":true}
+{"level":"error","message":"Sun Dec 03 2023 15:25:36 GMT+0530 (India Standard Time)-\"column \\\"doctor_id\\\" of relation \\\"Appointment\\\" does not exist\"","private":true}
+{"level":"error","message":"Sun Dec 03 2023 15:25:55 GMT+0530 (India Standard Time)-\"column \\\"doctor_id\\\" of relation \\\"Appointment\\\" does not exist\"","private":true}
